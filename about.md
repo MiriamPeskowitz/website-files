@@ -14,7 +14,7 @@ Miriam Peskowitz likes to learn things, the more complex and interconnected and 
 
 And for the formal bio: Miriam Peskowitz, Ph.D. is the New York Times Bestselling Author of **The Daring Book for Girls**, which graced the list for 14 weeks, pulled the #1 spot on IndieSense, and was translated globally, managing to be most controversial in Australia. Daring was followed by **The Double-Daring Book for Girls** and by two pocket versions, by games and toys and a video game and a Burger King Happy Meal promotion and a PBS show. It is currently under option to be developed for TV. She holds a PhD from Duke University and an undergraduate degree from Oberlin College, and has written at least three other books, though she's not the sort to keep count. 
 
-To contact Miriam for media inquiries, talks, educational consults or workshops, email her at miriam5000 at gmail.com. Miriam posts here and there on [Twitter](https://twitter.com/MiriamPeskowitz), where you can also catch a picture of her rescued Pit Bull, Wiggles. For review copies and publicity requests, contact Emma Benshoff at Random House Children's Books/Knopf Books for Young Readers: 
+ 
 
 
 
