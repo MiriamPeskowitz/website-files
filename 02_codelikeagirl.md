@@ -5,9 +5,6 @@ permalink: /Code Like a Girl/
 ---
 
 <img src="https://res.cloudinary.com/tech-stories/image/upload/v1552341463/Screen_Shot_2019-02-14_at_5.20.54_PM_q3yvs3.png" alt="Code Like a Girl bookcover" width="50%" height="50%">
-<!-- 
-![Code Like a Girl Cover](https://res.cloudinary.com/tech-stories/image/upload/v1552341463/Screen_Shot_2019-02-14_at_5.20.54_PM_q3yvs3.png)
- -->
 
 <!-- add a gallery of images and description  -->
 

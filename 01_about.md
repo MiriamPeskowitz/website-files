@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!-- 
-![Author Photo](https://res.cloudinary.com/tech-stories/image/upload/v1508974568/IMG_3662_soavuk.jpg) -->
+
 
 <img class="image" src="https://res.cloudinary.com/tech-stories/image/upload/v1508974568/IMG_3662_soavuk.jpg" alt="image of author Miriam Peskowitz" width="50%" height="50%">
 
