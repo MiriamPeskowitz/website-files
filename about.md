@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+<!-- 
+![Author Photo](https://res.cloudinary.com/tech-stories/image/upload/v1508974568/IMG_3662_soavuk.jpg) -->
 
-![Author Photo](https://res.cloudinary.com/tech-stories/image/upload/v1508974568/IMG_3662_soavuk.jpg)
-
+<img src="https://res.cloudinary.com/tech-stories/image/upload/v1508974568/IMG_3662_soavuk.jpg" alt="image of author Miriam Peskowitz" width="50%" height="50%">
 
 Miriam Peskowitz likes to learn things, the more complex and interconnected and curious, the better. This thread connects all her writing, going back to her academic books on the history of judaism and on feminist theory, to her 2005 book The Truth Behind the Mommy Wars, to the breakout and internationally best-selling The Daring Book for Girls and its sequel, to the newest and latest and most wonderful, **Code Like a Girl: Rad Tech Projects and Practical Tips.**
 
