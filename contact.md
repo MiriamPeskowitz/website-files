@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
 To contact Miriam for media inquiries, talks, educational consults or workshops, email her at miriam5000 at gmail.com. Miriam posts here and there on [Twitter](https://twitter.com/MiriamPeskowitz), where you can also catch a picture of her rescued Pit Bull, Wiggles. 
